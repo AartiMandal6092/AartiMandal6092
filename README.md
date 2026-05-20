@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aarti Kumari Mandal 👋
 
-<!--
-**AartiMandal6092/AartiMandal6092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Python Developer and BCA student passionate about building practical applications and improving problem-solving skills through hands-on projects.
 
-Here are some ideas to get you started:
+## 💻 Technologies & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Tkinter
+* APIs
+* JSON Handling
+* GitHub
+* Command Line Applications (CLI)
+* Problem Solving
+
+## 🚀 Projects
+
+* Python Weather Application
+* To-Do List App
+* Tkinter Digital Clock
+* Tic Tac Toe Game(using tkinter)
+  
+
+## 🌱 Currently Learning
+
+Python programming 
+
+
+## 📫 Connect With Me
+* Email: aartikumarimandal2006@gmail.com
+* LinkedIn: www.linkedin.com/in/aarti-mandal-99409b337
+* GitHub: https://github.com/AartiMandal6092
