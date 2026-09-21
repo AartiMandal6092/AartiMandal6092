@@ -57,6 +57,26 @@ I enjoy turning ideas into practical projects and exploring backend development,
 
 ## 🚀 Featured Projects
 
+### 🎓 CampusFlow AI — Smart Student Planner
+
+An AI-powered student planning application built to help students organize assignments, deadlines, priorities, and study tasks.
+
+**Highlights:**
+
+* 📚 Create and manage academic tasks and assignments
+* ⏰ Track deadlines and estimated task duration
+* 🔴 Set task priorities — High, Medium, and Low
+* 🤖 AI-powered recommendations based on task priority, deadline, and estimated time
+* ✅ Mark tasks as completed or delete them
+* 🔐 User registration, login, password hashing, and session-based authentication
+* 📊 Dashboard for managing and tracking tasks
+
+**Tech:** `Python` `Flask` `SQLite` `SQLAlchemy` `Jinja2` `HTML/CSS` `AI`
+
+🔗 **[View Project](https://github.com/AartiMandal6092/CampusFlow-AI-Study-Assistant)**
+
+---
+
 ### 🌐 Page Pulse — Web Auditing Tool
 
 A web auditing tool that analyzes **technical, SEO, and content metrics** from a webpage URL.
