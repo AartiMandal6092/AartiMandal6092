@@ -125,7 +125,7 @@ A web-based expense tracking application built using **Python and Flask**.
 
 **Tech:** `Python` `Flask` `SQLAlchemy` `SQLite` `Jinja2`
 
-🔗 **[View Project](https://github.com/AartiMandal6092/expensetracker)**
+🔗 **[View Project](https://github.com/AartiMandal6092/expense-tracker)**
 
 ---
 
