@@ -193,8 +193,9 @@ CGPA: **78%**
 
 ## 📜 Certifications & Learning
 
-* 🐍 Python Programming — **Sololearn**
-* 📊 Python / Data-related Learning — **Kaggle**
+* 🐍 Python Programming — **Kaggle**
+* 📊 SQL — **Sololearn**
+*  🌐 Responsive Web Design — **freeCodeCamp**
 * 💻 GitHub & Problem Solving
 
 ---
